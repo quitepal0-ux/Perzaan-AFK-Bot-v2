@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KingBot",
+    "username": "BotHero",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "GOMUGOMUNOMI.aternos.me",
+    "port": 40952,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to kingsowrov!",
+        "MA GARIB HU !",
         "I like to play Minecraft!"
       ]
     },
